@@ -12,6 +12,9 @@ The coins have been segmented using Otsu's segmentation method.
 The total number of coins is obtained from number of countours and is printed at the end.
 
 ### How to run the code
+'''
+python3 Final_task1.py
+'''
 
 ## Question-2: Panorama construction from multiple overlapping images
 ### a. Extract key points
