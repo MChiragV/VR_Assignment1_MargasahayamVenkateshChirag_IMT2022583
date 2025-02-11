@@ -1,6 +1,5 @@
 # Visual Recognition Assignment-1
-Name: Margasahayam Venkatesh Chirag
-------
+Name: Margasahayam Venkatesh Chirag <br>
 Roll number: IMT2022583
 
 ## Question-1: Coin detection and counting
