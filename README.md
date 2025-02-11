@@ -11,11 +11,21 @@ The coins have been segmented using Otsu's segmentation method.
 ### c. Count total number of coins
 The total number of coins is obtained from number of countours and is printed at the end.
 
-### How to run the code
-'''
+### How to run the code:
+```
 python3 Final_task1.py
-'''
-
+```
+### Methods chosen:
+#### For coin detection:
+Canny edge detector was chosen since it was a good detector for cases like this, where clear edges are visible and where noise is minimal.
+For better working, incase the detector detects the engravings on the coin, the Gaussian(used in blurring) can be made stronger.
+#### For segmentation:
+Otsu's segmentation is used since it was able to give better regions than other methods.
 ## Question-2: Panorama construction from multiple overlapping images
 ### a. Extract key points
 ### b. Image stitching
+
+### How to run the code:
+```
+python3 Final_task2.py
+```
