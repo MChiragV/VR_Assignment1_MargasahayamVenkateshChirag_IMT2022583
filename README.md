@@ -1,0 +1,2 @@
+# VR_Assignment1_MargasahayamVenkateshChirag_IMT2022583
+Submission for Visual Recognition Course, Assignment-1
