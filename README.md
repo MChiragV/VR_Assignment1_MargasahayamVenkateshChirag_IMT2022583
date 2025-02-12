@@ -19,7 +19,7 @@ python3 Final_task1.py
 ```
 ### Dependencies:
 Ensure the following Python libraries are installed:
-``` pip install numpy opencv-python matplotlib ```
+```pip install numpy opencv-python ```
 
 ## Question-2: Panorama construction from multiple overlapping images
 ### Explanation along with methods chosen:
