@@ -39,4 +39,4 @@ Ensure the following Python libraries are installed:
 pip install opencv-python opencv-contrib-python numpy matplotlib
 ```
 ### Note:
-To see the original image, go to "Dataset/Original.jpg". The parts are created by taking original image and dividing it into 3 parts with overlapping regions(sifficient enough so that common key points can be detected).
+To see the original image, go to "Dataset/Original.jpg". The parts are created by taking original image and dividing it into 3 parts with overlapping regions(sufficient enough so that common key points can be detected).
