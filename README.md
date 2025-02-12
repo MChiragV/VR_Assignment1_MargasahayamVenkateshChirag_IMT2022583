@@ -33,3 +33,8 @@ Perspective transformation aligns img1 with img2 using the homography matrix. im
 ```
 python3 Final_task2.py
 ```
+### Dependencies:
+Ensure the following Python libraries are installed:
+```
+pip install opencv-python opencv-contrib-python numpy matplotlib
+```
