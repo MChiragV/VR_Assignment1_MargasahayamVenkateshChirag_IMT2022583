@@ -23,7 +23,7 @@ For better working, incase the detector detects the engravings on the coin, the 
 Otsu's segmentation is used since it was able to give better regions than other methods.
 ## Question-2: Panorama construction from multiple overlapping images
 ### a. Extract key points
-The image is converted to grayscale. The keypoints and desciptors have been computed using SIFT method. Then, Brute-Force Matcher and KNN is used to find the 2 best matches for each descriptor. <b>Good matches<\b> are retained if the distance(similarity) between the 2 descriptors is less than 75% (lower distance => better match between the keypoints) (Based on Lowe's Ratio test). 
+The image is converted to grayscale. The keypoints and desciptors have been computed using SIFT method. Then, Brute-Force Matcher and KNN is used to find the 2 best matches for each descriptor. <b>Good matches</b> are retained if the distance(similarity) between the 2 descriptors is less than 75% (lower distance => better match between the keypoints) (Based on Lowe's Ratio test). 
 ### b. Image stitching
 
 ### How to run the code:
